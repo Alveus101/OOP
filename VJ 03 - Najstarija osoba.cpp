@@ -21,7 +21,7 @@ main. Unutar nje kreirajte polje od 5 objekata tipa Osoba te inicijalizirajte vr
 
 using namespace std;
 
-#define MAX_OSOBA 2
+#define MAX_OSOBA 5
 
 class Osoba {
 	string Ime;
